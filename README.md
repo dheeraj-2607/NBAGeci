@@ -1,6 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+Create a folder named "my-app" in your current workspace folder:
+```bash
+mkdir my-app
+# then
+#clone the repo in the created directory
+git clone https://github.com/dheeraj-2607/NBAGeci.git
+# follows
+```
 Facing the absence of node modules in your directory after cloning(contain package.json):
 ```bash
 cd my-app
