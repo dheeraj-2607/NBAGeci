@@ -1,6 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+Facing the absence of node modules in your directory after cloning(contain package.json):
+```bash
+cd my-app
+then,
+npm install
+# or
+yarn install
+```
 
 First, run the development server:
 
