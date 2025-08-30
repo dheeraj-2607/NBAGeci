@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Facing the absence of node modules in your directory after cloning(contain package.json):
 ```bash
 cd my-app
-then,
+# then,
 npm install
 # or
 yarn install
