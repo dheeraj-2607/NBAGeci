@@ -9,6 +9,8 @@ mkdir my-app
 git clone https://github.com/dheeraj-2607/NBAGeci.git
 # follows
 ```
+!!!Always make sure that you are working and pushing is done inside my-app
+
 Facing the absence of node modules in your directory after cloning(contain package.json):
 ```bash
 cd my-app
