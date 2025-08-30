@@ -19,7 +19,20 @@ npm install
 # or
 yarn install
 ```
-
+Steps to commit and push through vs code terminal or Git Bash:
+```bash
+cd my-app
+git init
+git add .
+git commit -am "commit message"
+git remote add origin https://github.com/dheeraj-2607/NBAGeci.git
+git remote -v
+git commit "message"
+git push origin master
+#after recursive change
+git commit "message"
+git push origin master
+```
 First, run the development server:
 
 ```bash
