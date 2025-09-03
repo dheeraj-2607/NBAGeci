@@ -8,18 +8,18 @@ export default function Navbar() {
       </div>
       <ul className="flex gap-6">
         <li>
-          <Link href="/" className="hover:underline text-gray-700 dark:text-gray-200">
-            Home
+          <Link href="/">
+            <a className="hover:underline text-gray-700 dark:text-gray-200">Home</a>
           </Link>
         </li>
         <li>
-          <Link href="/about" className="hover:underline text-gray-700 dark:text-gray-200">
-            About
+          <Link href="/about">
+            <a className="hover:underline text-gray-700 dark:text-gray-200">About</a>
           </Link>
         </li>
         <li>
-          <Link href="/contact" className="hover:underline text-gray-700 dark:text-gray-200">
-            Contact
+          <Link href="/contact">
+            <a className="hover:underline text-gray-700 dark:text-gray-200">Contact</a>
           </Link>
         </li>
       </ul>
